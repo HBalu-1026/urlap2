@@ -1,0 +1,16 @@
+.csillag{
+    color: purple;
+}
+
+.küldés{
+    background-color: green;
+    width: 500px;
+}
+
+#hatter{
+    background-color: gray;
+}
+
+.körvonal{
+    border:purple 100px;
+}
